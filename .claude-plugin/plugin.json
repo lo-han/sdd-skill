@@ -2,6 +2,7 @@
   "name": "sdd",
   "description": "Spec-driven development workflow skill.",
   "version": "0.1.0",
+  "license": "MIT",
   "author": {
     "name": "lohan.chuan123@gmail.com"
   }

@@ -1,0 +1,13 @@
+{
+  "name": "sdd-skill",
+  "owner": {
+    "name": "lohan.chuan123@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "sdd",
+      "source": "./",
+      "description": "Spec-driven development workflow skill."
+    }
+  ]
+}
